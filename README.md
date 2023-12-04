@@ -17,7 +17,7 @@ I am dedicated to staying current with industry trends and continuously expandin
 
 - LinkedIn: [Nidhish Nayak](https://www.linkedin.com/in/nidhishdnayak)
 - Twitter: [@nidhish_nayak](https://twitter.com/Nidhish18224246)
-- Gmail: [Nidhish Nayak](mailto:nayak.d.nidhish@gmail.com)
+- Gmail: [nayak.d.nidhish@gmail.com](mailto:nayak.d.nidhish@gmail.com)
 
 ## Notable Projects
 
