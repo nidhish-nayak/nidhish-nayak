@@ -29,10 +29,6 @@ Software Engineer with a comprehensive background in developing robust and scala
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
-## What I am working on
-
-I am dedicated to staying current with industry trends and continuously expanding my skill set. Currently focused on fullstack web-development, I strive to enhance my capabilities in building scalable and resilient systems.
-
 ## Connect with Me
 
 - LinkedIn: [Nidhish Nayak](https://www.linkedin.com/in/nidhishdnayak)
