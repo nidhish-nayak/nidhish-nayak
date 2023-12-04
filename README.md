@@ -29,7 +29,7 @@ Software Engineer with a comprehensive background in developing robust and scala
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
-## Connect with Me
+## Social Links
 
 - LinkedIn: [Nidhish Nayak](https://www.linkedin.com/in/nidhishdnayak)
 - Twitter: [@nidhish_nayak](https://twitter.com/Nidhish18224246)
