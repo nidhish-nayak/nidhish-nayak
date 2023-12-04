@@ -1,19 +1,31 @@
 Software Engineer with a comprehensive background in developing robust and scalable software solutions. Proficient in Typescript and experienced in utilizing frameworks like React and Express. I bring a meticulous approach to problem-solving and a commitment to delivering high-quality code.
 
-## Technical Proficiency
+<span> <h2> 💻 Tech Stack</h2></span>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+</div>
 
-- **Languages:** Typescript, JavaScript
-- **Frameworks:** Express, React, Astro
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Version Control:** Git
-- **Tools:** VS Code, Figma
-- **OS:** Linux, Windows
-
-## What I am working on
+## 🛠️ What I am working on
 
 I am dedicated to staying current with industry trends and continuously expanding my skill set. Currently focused on fullstack web-development, I strive to enhance my capabilities in building scalable and resilient systems.
 
-## Connect with Me
+## 🔌 Connect with Me
 
 - LinkedIn: [Nidhish Nayak](https://www.linkedin.com/in/nidhishdnayak)
 - Twitter: [@nidhish_nayak](https://twitter.com/Nidhish18224246)
