@@ -35,7 +35,7 @@ Software Engineer with a comprehensive background in developing robust and scala
 - Twitter: [@nidhish_nayak](https://twitter.com/Nidhish18224246)
 - Gmail: [nayak.d.nidhish@gmail.com](mailto:nayak.d.nidhish@gmail.com)
 
-## Collaboration Opportunities
+## Collaborations
 
 Open to collaborative ventures and exciting open-source projects. Whether it's contributing code or engaging in discussions on emerging technologies, I am eager to connect with like-minded professionals.
 
