@@ -38,5 +38,3 @@ Software Engineer with a comprehensive background in developing robust and scala
 ## Collaborations
 
 Open to collaborative ventures and exciting open-source projects. Whether it's contributing code or engaging in discussions on emerging technologies, I am eager to connect with like-minded professionals.
-
-Thank you for taking the time to learn about my professional journey. I look forward to connecting with you!
