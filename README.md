@@ -48,7 +48,7 @@ I develop cool and useful software. Also have a comprehensive background in deve
 <h4>Projects:</h4>
 
 - 📈 [Trendz](https://github.com/nidhish-nayak/trendz): Fully tested & documented app with a separate backend and database that can easily scale to millions.
-- 🔀 [Plottwist](https://github.com/NeoFoxxo/plottwist): An AI-powered story generator built with <img src="https://supabase.com/dashboard/img/supabase-logo.svg" width="12px" height="12px" /> [Supabase](https://supabase.com/) hackathon team which got us 2nd place in **``Best use of AI``** category.
+- 🔀 [Plottwist](https://github.com/NeoFoxxo/plottwist): An AI-powered story generator built with <img src="https://supabase.com/dashboard/img/supabase-logo.svg" width="12px" height="12px" /> [Supabase hackathon](https://supabase.com/blog/supabase-oss-hackathon-winners) team which got us 2nd place in **``Best use of AI``** category.
 - [Fabric-Clothing](https://github.com/nidhish-nayak/fabric-clothing): E-Commerce app that supports payment gateway and helpful for new devs to learn complex state management (check other branches to see more).
 - [Payment Gateway](https://github.com/nidhish-nayak/node-razorpay): Payment feature for the above application using Express and Node with minimal code.
 - [Freelance](https://github.com/nidhish-nayak/nayan): A portfolio made for freelance work. Uses astro for insane loading speeds with CMS support, SSR and more.
