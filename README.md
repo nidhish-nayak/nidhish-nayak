@@ -56,7 +56,7 @@ I develop cool and useful software. Also have a comprehensive background in deve
 <h4>About me:</h4>
 
 - Currently working full-time as a Software Engineer at Accenture.
-- I use [Neovim](https://github.com/neovim/neovim) as my primary editor 💻 (VSCode crying in the corner 👽).
+- I use [Neovim](https://github.com/neovim/neovim) as my primary editor 💻.
 - My personal setup configuration in case you want to check it out [config/nvim](https://github.com/nidhish-nayak/nvim).
 - I write blog posts on [nidhish-blog](https://nidhish-blog.vercel.app/), check it out!
 
